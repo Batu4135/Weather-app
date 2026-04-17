@@ -1,0 +1,24 @@
+# Weather App
+
+Simple web application to display current weather data.
+
+## Overview
+
+This project is a small web application that fetches and displays weather information for a given location.
+It was developed as part of my practice in web development.
+
+## Technologies
+
+* JavaScript
+* HTML
+* CSS
+
+## Features
+
+* Search for weather by location
+* Display of temperature and weather conditions
+* Simple and responsive user interface
+
+## Purpose
+
+The goal of this project was to improve my understanding of working with APIs and building interactive web applications.
